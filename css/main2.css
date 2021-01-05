@@ -1,0 +1,138 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
+
+.navbar,
+main {
+    padding: 1.2rem 6rem !important;
+}
+
+main {
+    padding-top: 6rem !important ;
+
+}
+
+.hero {
+    background: #46CB9B;
+    background-size: cover;
+}
+
+.container{ 
+     padding-right: 0px !important;
+     padding-left: 0px !important;
+     width: 100%;
+     min-height: 100%;
+   
+}
+.nav-header{background-color: #ffffff;}
+.nav-link , .navbar-brand{ color: #F9F9F9; cursor: pointer;}
+
+.nav-link{ 
+    margin-right: 1em !important;
+}
+.dropdown-toggle::after{
+    display: none !important;
+   
+   }
+.nav-link:hover{
+     background: #F9F9F9; 
+     }
+
+.navbar-collapse{ 
+    justify-content: space-between;
+    margin-left:5% ;
+ }
+.logo{
+     width: 100px;
+     height: 50px;  
+    }
+.navbar-toggler{  
+    background:#fff !important;
+}
+.navbar-brand{
+    justify-content: flex-start;
+}
+.img-fluid{
+    position: relative;
+    left: -26px;
+    top:-15px;
+}
+.footer{
+    background-color: #F9F9F9;
+}
+.title{
+    color:#46CB9B;
+}
+.footer-end{
+    border-top: 1px #46CB9B;
+}
+.footer-parent {
+    border-top:1px solid #9C9CA8;
+    flex-direction: row-reverse;
+    justify-content: center;
+   
+}
+
+.main-image{
+    max-width: 100%;
+    max-height: 100%;
+    display: block; /* remove extra space below image */
+}
+.vector{
+    width: 600px;
+    height: 600px;
+    position: relative;
+    float: right;
+   
+}
+.main{
+    background-color: #46CB9B;
+    padding-bottom: 80px;
+    margin-bottom: 100px;
+
+}
+.container-main {
+    margin-top:50px;
+}
+
+.main-left{
+    color: white !important;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+}
+.card-div{
+
+}
+/* .text-card{
+    color: black !important;
+    margin: 0px 10px 25px 10px;
+} */
+
+.card-item{
+    width: 130px;
+    margin:0 10px 20px 0 ;
+    border-radius: 3px;
+    box-shadow: 0 1px 4px 0 rgba(187, 186, 186, 0.2), 0 1px 4px 0 rgba(185, 185, 185, 0.19);
+}
+.card-image{
+    width: 50%;
+    height: 50%;
+    margin:5px 0 ;
+}
+
+
+@media (max-width: 576px) { 
+.copy-right{
+    border-top:1px solid #9C9CA8;
+}
+.footer-parent{
+    border:none;
+}
+.footer-element{
+    justify-content: center;
+}
+
+}

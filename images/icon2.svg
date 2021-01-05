@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="82" viewBox="0 0 82 82">
+<path id="Path_288" data-name="Path 288" d="M8.707,11C7.764,11,7,11.448,7,12s.764,1,1.707,1H22.3C23.238,13,24,12.552,24,12s-.764-1-1.707-1Z" transform="translate(28 30)" fill="#5bdee0"/>
+  <path id="Path_289" data-name="Path 289" d="M8.748,15.066c-.943,0-1.707.448-1.707,1s.764,1,1.707,1H22.336c.943,0,1.707-.448,1.707-1s-.764-1-1.707-1Z" transform="translate(28 32)" fill="#5bdee0"/>
+  <path id="Path_290" data-name="Path 290" d="M6.889,3A3.889,3.889,0,0,0,3,6.889V34.111A3.889,3.889,0,0,0,6.889,38H34.111A3.889,3.889,0,0,0,38,34.111V6.889A3.889,3.889,0,0,0,34.111,3Zm3.889,3.889H6.889V34.111H34.111V6.889H30.222V8.833a5.833,5.833,0,0,1-5.833,5.833H16.611a5.833,5.833,0,0,1-5.833-5.833Zm3.889,0V8.833a1.944,1.944,0,0,0,1.944,1.944h7.778a1.944,1.944,0,0,0,1.944-1.944V6.889Z" transform="translate(22 22)" fill="#5bdee0" fill-rule="evenodd"/>
+  <g id="Ellipse_31" data-name="Ellipse 31" fill="none" stroke="#5bdee0" stroke-width="1" opacity="0.4">
+   
+    <circle cx="41" cy="41" r="41" stroke="none"/>
+    <circle cx="41" cy="41" r="40.5" fill="none"/>
+  </g>
+</svg>
