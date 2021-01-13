@@ -1,0 +1,63 @@
+
+/* text  */
+.text-white{
+    color: #fff;
+}
+.text-green{
+    color: #46CB9B;
+}
+.text-red{
+    color: #D51945;
+}
+.text-gray{
+color: #E4E4E4;
+}
+.text-black{
+    color:#707070;
+}
+/* text  */
+
+/* background color */
+.bg-color-green{
+    background-color: #46CB9B;
+}
+.bg-color-white{
+    background-color: #ffffff;
+}
+.bg-color-gray{
+    background-color: #F9F9F9;
+}
+.text-weight{
+    font-weight:700;   
+}
+.text-weight-less{
+    font-weight:400;   
+}
+.text-big-size{
+    font-size: 1.5rem;
+}
+.text-mid-size{
+    font-size: 1.2rem;
+}
+.text-title-size{
+    font-size: 1rem;
+}
+.text-parg-size{
+    font-size: .9rem;
+}
+.text-small-size{
+    font-size: .8rem;
+}
+.text-align-start{
+    text-align: start;
+}
+.text-align-center{
+    text-align: center;
+}
+/* background color */
+/* ancor */
+a {
+    color: #46CB9B;
+    text-decoration: none;
+}
+/* ancor */

@@ -1,0 +1,59 @@
+main{
+    overflow: hidden;
+}
+.company-avatar {
+    height: 50px;
+    width: 50px;
+}
+.company-logo {
+    height: 40px;
+    width: 90px;
+}
+.company-quotation{
+    height: 40;
+    width: 80px;
+}
+.company-card-div{
+    border:1px solid #dddddd;
+    border-radius: 4px;
+    font-weight:500;
+}
+.company-card-tab{
+    border:1px solid #dddddd;
+    border-radius: 4px;
+ 
+}
+.company-card,.company-card-row{
+    padding-right: 0px;
+    padding-left: 0px;
+
+}
+@media (max-width: 767px) { 
+    .company-logo {
+        height: 30px;
+        width: 70px;
+    }
+    .company-card-div{
+        border:1px solid #dddddd;
+        border-radius: 4px;
+        font-weight:400;
+        font-size: .9rem;
+    } 
+    .company-card-tab {
+        border:none;
+         overflow: hidden;
+         background-color:#F9F9F9 !important;
+         width: 100%;
+    } 
+    .nav {
+        flex-direction: row !important;
+        flex-wrap: inherit !important;
+        overflow-x: hidden;
+      
+        display: -webkit-box;
+        display: -moz-box;
+      }
+      .nav>li {
+        float: none;
+      }
+    }

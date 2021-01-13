@@ -1,0 +1,18 @@
+.footer{
+    background-color: #F9F9F9;
+    padding-top:5%;
+   
+ }
+ .footer-end{
+    border-top: 1px #46CB9B;
+ }
+ .footer-parent {
+    border-top:1px solid #9C9CA8;
+    flex-direction: row-reverse;
+   
+   
+ }
+ .footer-element-1{
+    justify-content:flex-end;
+ }
+ 
